@@ -7,7 +7,8 @@ Servidor: Wampserver 3.3.0 64 bit x64 - Apache 2.4.54.2 - PHP 7.4.33/8.0.26/8.1.
 Link para o download: https://wampserver.aviatechno.net/
 
                     Funcionamento do Teste
-1) Importe o database:celke no phpMyAdmin do Wampeserve
-2) Acesso do teste URL (cola no browser): http://localhost/projeto/Teste/Business/vendas
+1) Adicione a pasta Teste em: C:\wamp64\www
+2) Importe o database:celke no phpMyAdmin do Wampeserve
+3) Acesso do teste URL (cola no browser): http://localhost/projeto/Teste/Business/vendas
 
-Obs.: apresentei algumas faltas de perfomece pela falta de familiaridade com o framork CakePHP
+Obs.: apresentei algumas faltas de perfomece pela falta de familiaridade com o framork CakePH, queria aperfeiçoar até as 12h00 do dia 36/12/2023 este teste por meio das pesquuisas, porém tenho acompanhar um familiar ao hospital.
