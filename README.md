@@ -11,7 +11,7 @@ Link para o download: https://wampserver.aviatechno.net/
 2) Importe o database:celke no phpMyAdmin do Wampeserve
 3) Acesso do teste URL (cola no browser): http://localhost/projeto/Teste/Business/vendas
 
-Obs.: apresentei algumas faltas de perfomece pela falta de familiaridade com o framork CakePHP a minha melhor performece e o framork laravel, queria aperfeiçoar até as 12h00 do dia 36/12/2023 este teste por meio das pesquisas, porém tenho acompanhar um familiar ao hospital.
+Obs.: apresentei algumas faltas de performance pela falta de familiaridade com o framework CakePHP a minha melhor performance e o framework laravel, queria aperfeiçoar até as 12h00 do dia 36/12/2023 este teste por meio das pesquisas, porém tenho acompanhar um familiar ao hospital.
 
 Atenciosamente,
 
